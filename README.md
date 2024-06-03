@@ -2,9 +2,9 @@ IMUFrameCheckerパッケージはimu_linkの向きが正しく設定されてい
 Autowareを起動したターミナルとは別のターミナルで
 
     ros2 run imu_frame_checker imu_frame_checker 
-    
+
 を実行する。
-以下のように「機体を静止させてください」「機体を前進させてください」と指示が表示されるのでそれに従う。
+以下のように「機体を静止させてください」「機体を前進させてください」と指示が表示されるのでそれに従って機体を操作してください。
 
 ![alt text](image.png)
 ![alt text](image-1.png)
